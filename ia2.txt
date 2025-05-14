@@ -1,0 +1,94 @@
+Sistemas de inteligência aumentada complementam as habilidades humanas. Exemplos incluem leituras de tela para 
+cegos, navegação acionada por voz e sistemas de prevenção de colisões no carro.
+
+DADOS NÃO ESTRUTURADOS
+
+Dados são informações brutas. Os dados podem ser fatos, estatísticas, opiniões ou qualquer tipo de conteúdo 
+registrado em algum formato. 
+Isso pode incluir vozes, fotos, nomes e até movimentos de dança!
+
+Dados estruturados normalmente são classificados como dados quantitativos e são altamente organizados. 
+Dados estruturados são informações que podem ser organizadas em linhas e colunas. 
+
+Dados não estruturados, também conhecidos como dados obscuros, são normalmente categorizados como dados 
+qualitativos. . Eles não podem ser processados e analisados por ferramentas e métodos de dados convencionais,
+eles precisam de organização ou estrutura integrada para serem analisados.
+
+Dados semiestruturados são a "ponte" entre dados estruturados e dados não estruturados. 
+Eles não têm um modelo de dados predefinido, são mais complexos do que os dados estruturados, mas mais fáceis 
+de armazenar do que os dados não estruturados, eles usam metadados para identificar caracteristicas específicas
+de dados e escalar em registors e campos pré-configurado. Utilizam hashtag para identificar uma localização.
+
+Hoje, cerca de 80% dos dados do mundo não são estruturados.
+--------------------------------
+O QUE É APRENDIZADO DE MÁQUINA
+O aprendizado de máquina (em inglês, machine learning) é um método de análise de dados que automatiza a 
+construção de modelos analíticos. É um ramo da inteligência artificial baseado na ideia de que sistemas podem 
+aprender com dados, identificar padrões e tomar decisões com o mínimo de intervenção humana.
+
+O aprendizado da máquina localiza respostas mais rapidamente em dados não estruturados do que um computador 
+programável porque o aprendizado de máquina pode trabalhar muito rapidamente com as combinações de fatores 
+para encontrar a melhor solução. Computadores programáveis trabalham melhor com dados estruturados localizados 
+em bancos de dados.
+O aprendizado de máquina resolve problemas de três maneiras:
+- Aprendizado Supervisionado, quando se oferece à IA exemplos suficientes para fazer previsões precisas. Todos 
+os algoritmos do aprendizado supervisionado precisam de dados rotulados. Dados rotulados são dados agrupados 
+em amostras marcadas com um ou mais rótulos.
+- Aprendizado não supervisionado, uma pessoa alimenta uma máquina com uma grande quantidade de informações, 
+faz uma pergunta, e então a máquina deve descobrir como responder sozinha à questão. O aprendizado não 
+supervisionado é útil quando você não sabe como classificar os dados.
+- Aprendizado por reforço, é um modelo de aprendizado de máquina semelhante ao aprendizado supervisionado, 
+mas o algoritmo não é treinado usando dados de amostra, este aprende à medida que avança usando tentativa e 
+erro, dá ao seu agente reforço positivo por realizar a coisa "certa" e reforço negativo por realizar as coisas
+ "erradas".
+ ----------------------------
+AI em todos os lugares é a ideia de como a IA no futuro avançará sobre todas os setores, desde finanças, 
+formação acadêmica, até assistência médica. Espera-se que a IA aumente a produtividade e possibilite novas 
+oportunidades.
+Em sistemas de IA ampla, vários sistemas limitados são combinados para fazer predições mais complexas. 
+A Tesla combina a experiência de direção de cada carro para aumentar a quantidade de dados disponíveis para a 
+IA de cada carro.
+Pesquisadores de IA esperam que a IA geral surja por volta de 2050. A IA geral permitirá que robôs e 
+tecnologias superinteligentes conectem a IA com a Internet das Coisas através da "cognição incorporada".
+Geralmente as recomendações são feitas usando o IA Limitada. A IA Limitada analisa as preferências de um 
+usuário a respeito de um banco de dados de conteúdo ou informações e determina do que ele gosta e não gosta.
+Planeta instrumentado refere-se à ideia de bilhões de sensores gerando exabytes de dados que abrirão novas 
+possibilidades para melhorar a segurança, sustentabilidade e proteção da Terra.
+-------------------------------------
+Inteligência artiﬁcial refere-se à capacidade de uma máquina de aprender padrões e fazer predições. A IA não substitui decisões humanas; em vez disso, a IA adiciona valor ao julgamento humano.
+
+2
+A IA executa tarefas sem intervenção humana e conclui tarefas mundanas e repetitivas, enquanto a inteligência aumentada permite que os humanos tomem decisões finais após analisar dados, relatórios e outros tipos de dados.
+
+3
+Os três níveis de IA incluem: IA limitada, IA ampla e IA geral. AI limitada e AI ampla estão disponíveis hoje. De fato, a maioria das empresas usa IA ampla. A IA geral não ficará on-line por enquanto.
+
+4
+A história da IA progrediu através da Era da Tabulação, Era da Programação e Era da IA.
+
+5
+Os dados podem ser estruturados, não estruturados ou semiestruturados.  
+
+Os dados estruturados são quantitativos e altamente organizados, como uma planilha de dados.  
+Os dados não estruturados são dados qualitativos que não possuem estrutura, como prontuários médicos. Estão se tornando cada vez mais valiosos para as empresas. 
+E os dados semiestruturados combinam características de ambos, dados estruturados e dados não estruturados. Eles usam metadados.
+6
+Mais de 80% de todos os dados no mundo de hoje não são estruturados.
+
+7
+O aprendizado de máquina tem vantagens em relação aos computadores programáveis. O aprendizado de máquina pode prever e aprender!
+
+8
+O aprendizado de máquina usa três métodos.
+
+O aprendizado supervisionado requer exemplos suficientes para fazer previsões precisas
+O aprendizado não supervisionado requer grandes quantidades de informações para que a máquina possa fazer uma pergunta e, em seguida, descobrir como responder à pergunta por si só.
+O aprendizado por reforço requer o processo de tentativa e erro.
+9
+Com a IA em todos os lugares, a IA avançará para todos os setores, finanças, formação acadêmica e assistência médica.
+
+10
+A AI pode aumentar a produtividade, criar novas oportunidades, fornecer insights mais profundos e ativar a personalização.
+
+
+-------------------------------------

@@ -1,0 +1,97 @@
+Definir processamento de linguagem natural
+Explicar como a IA usa processamento de linguagem natural para derivar significado de texto
+Explicar o problema de classificação e suas soluções
+Descrever como um chatbot entende, raciocina, aprende e interage com os usuários
+Distinguir entre intenções, entidades e diálogos
+Identificar usos apropriados para chatbots
+Identificar usos do mundo real para processamento de linguagem natural (NLP)
+Descrever como a IA classifica imagens para derivar significado delas
+Descrever como uma rede neural convolucional (CNN) analisa uma imagem
+Descrever como uma rede adversária generativa (GAN) cria uma imagem crível
+Identificar usos do mundo real para visão por computador
+
+
+PROCESSAMENTO DE LINGUAGEM NATURAL E VISAO POR COMPUTADOR
+
+(NLP- NATURAL LINGUAGE PROCESS)
+A linguagem humana é incrivelmente complexa, de modo que as máquinas 
+requererem sistemas que os cientistas pesquisadores chamam de 
+processamento de linguagem natural (NLP), para entender a linguagem 
+humana
+
+corpus - é como os pesquissadores de IA chamam a coleção de material de
+passagens de jornal, livros e periódicos aprendido sobre determinado 
+assunto.
+essa é a primeira etapa para se preparar para um debate 
+a segunda etapa é elaborar o seu discurso com base no corpus, sua 
+posição deve ser detalhada com argumento convincente, em ordem lógica 
+e em boa gramática.
+a terceira etapa é organizar a sua prova, você deve se aprofundar nos
+tópicos apresentados por você, decidir qual evidência é mais forte, 
+organizar a prova por temas ajustando a cada nova evidência descoberta.
+a quarta etapa deve ser ouvir e contestar os argumentos do seu oponente com 
+respostas convincentes que o refute e comprove ainda mais o seu caso.
+
+os sistemas cognitivos entendem, raciocinam, aprendem e interagem.
+
+No NLP, as máquinas segmentam as sentenças e extraem significado de
+ "tokens" da linguagem humana
+
+A linguagem humana não é estruturada, para lidar com essas informaçoes,
+os computadores começam com uma sentença por vez, chamamos isso de 
+SEGMENTAÇÃO DE SENTENÇA. Os computadores fividem as informaçoes em 
+pequenos chunks chamados de TOKENS, que podem ser classificados em uma
+estrutura baseada baquilo que eles significam.
+
+ENTIDADE - é um substantivo que representa uma pessoa, local ou coisa
+RELACIONAMENTO - é um grupo de duas ou mais entidades que tem uma forte
+conexão entre si.
+
+CONCEITO - é algo implicito em uma frase, mas não declarado de fato
+
+A detecção de emoção identifica tipos distintos de emoções humanas. 
+A analise de sentimento é a medida da intensidade de uma emoção
+
+A partir de muitas situações semelhantes, o sistema de IA identifica a 
+frequência em que determinadas palavras estão contextualmente ligadas. 
+Aos poucos, o sistema melhora a classificação e comete menos erros. 
+Assim, com a experiência, ele aprende.
+
+O CHATBOT TEM O FRONT-END E O BACK-END
+O front-end de um chatbot é o canal de sistema de mensagens.Ele interage
+com a pessoa que está fazendo perguntas tanto ouvindo (ou lendo) quanto
+falando (ou apresentando texto). 
+
+O back-end de um chatbot é onde acontece o trabalho árduo. Ele opera a 
+lógica de aplicativo e tem memória suficiente para se lembrar de partes 
+anteriores de uma conversa enquanto o diálogo continua. 
+
+ CLASSIFICADORES - podem mapear muitas maneiras diferentes de fazer 
+uma pergunta para um conjunto muito pequeno de respostas. 
+
+Um back-end de chatbot geralmente inclui três partes: 
+intenções, entidades e diálogo
+
+INTENÇOES - propósito, razão pela qual um usuário está entrando em 
+contato com o chatbot
+
+DIALOGO - é um fluxograma, uma estrutura em árvore IF/THEN que ilustra
+como uma máquina responderá às intenções do usuário. é o que a máquina
+responde após um homano fazer uma pergunta.
+
+CNN - rede neural convolucional possibilita que os sistemas de 
+reconhecimento visual identifiquem coisas em uma imagem, como no 
+reconhecimento facial. Em uma CNN, dois pequenos grupos de pixels que 
+sobrepõem um ao outro são comparados matematicamente para obter um 
+valor. A IA pode usar milhares dessas pequenas comparações para 
+identificar partes individuais de uma imagem e compará-las a imagens 
+em seu corpus. A partir disso, a IA pode elaborar uma identificação 
+geral sem ficar sobrecarregada.
+
+GAN tem duas redes neurais convolucionais (CNNs). Uma CNN, o gerador, 
+trabalha para criar uma saída que seja boa o suficiente para enganar a 
+outra CNN, chamada de discriminador.  A GAN é um exemplo de aprendizado 
+não supervisionado; ela supervisiona-se eficazmente e consiste na CNN 
+geradora tentando enganar a CNN discriminadora. Ao longo do tempo, a 
+CNN geradora torna-se boa o suficiente para enganar a CNN discriminadora
+ de forma consistente.
